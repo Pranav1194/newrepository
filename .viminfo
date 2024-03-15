@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1710529209,,"wq!"
+|2,0,1710529610,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,12 +25,18 @@
 # Registers:
 
 # File marks:
-'0  5  19  ~/index.js
-|4,48,5,19,1710529209,"~/index.js"
-'1  5  21  ~/index.js
-|4,49,5,21,1710528544,"~/index.js"
+'0  5  16  ~/index.js
+|4,48,5,16,1710529610,"~/index.js"
+'1  5  19  ~/index.js
+|4,49,5,19,1710529209,"~/index.js"
+'2  5  21  ~/index.js
+|4,50,5,21,1710528544,"~/index.js"
+'3  5  21  ~/index.js
+|4,51,5,21,1710528544,"~/index.js"
 
 # Jumplist (newest first):
+-'  5  16  ~/index.js
+|4,39,5,16,1710529610,"~/index.js"
 -'  5  19  ~/index.js
 |4,39,5,19,1710529209,"~/index.js"
 -'  5  21  ~/index.js
@@ -39,12 +45,14 @@
 |4,39,1,0,1710528527,"~/index.js"
 -'  1  0  ~/index.js
 |4,39,1,0,1710528527,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1710528527,"~/index.js"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.js
-	*	1710529206	0
-	"	5	19
-	^	5	20
-	.	5	19
-	+	5	19
+	*	1710529605	0
+	"	5	16
+	^	5	17
+	.	5	17
+	+	5	17
